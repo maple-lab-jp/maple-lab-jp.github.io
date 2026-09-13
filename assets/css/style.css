@@ -476,6 +476,12 @@ h2 {
   border-top: 16px solid var(--accent);
 }
 .flow-copy { margin: 0 0 18px; font-size: 1.1rem; font-weight: 700; }
+.flow-copy strong {
+  color: var(--accent);
+  font-size: 1.25em;
+  font-weight: 700;
+}
+.flow-copy-mobile-break { display: none; }
 .approach-card {
   min-height: 260px;
   padding: 24px;
@@ -958,6 +964,7 @@ h2 {
 
   .support-hub { padding: 24px 22px; }
   .flow-copy { font-size: 1rem; }
+  .flow-copy-mobile-break { display: block; }
   .approach-card { min-height: 0; }
 
   .section-heading { margin-bottom: 52px; }
