@@ -395,7 +395,7 @@ h2 {
 }
 .featured-copy .work-category { margin-top: 12px; }
 .featured-copy .note { margin-top: 4px; color: var(--muted-ink); font-size: .82rem; }
-.text-links { display: flex; flex-wrap: wrap; gap: 18px 28px; margin-top: 22px; }
+.text-links { display: flex; flex-wrap: wrap; gap: 18px 28px; margin-top: 18px; }
 .text-links a {
   position: relative;
   display: inline-flex;
