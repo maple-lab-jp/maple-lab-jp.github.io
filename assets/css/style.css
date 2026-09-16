@@ -976,7 +976,7 @@ h2 {
   .brand-mark { width: 22px; }
 
   .hero { padding: 54px 0 70px; }
-  .hero-grid { min-height: 0; }
+  .hero-grid { min-height: 0; gap: 8px; }
   .hero h1 { margin-bottom: 26px; }
   .hero-media {
     width: 100vw;
